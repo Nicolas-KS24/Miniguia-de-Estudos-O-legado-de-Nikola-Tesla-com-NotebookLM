@@ -12,11 +12,12 @@ O projeto foca na análise de documentos históricos e técnicos para entender c
 ## 📚 Curadoria de Fontes
 As seguintes fontes foram carregadas no NotebookLM para criar a base de conhecimento:
 
-1. **My Inventions: The Autobiography of Nikola Tesla** - Relato em primeira pessoa sobre sua vida e processos criativos.
-2. **The War of the Currents (U.S. Dept. of Energy)** - Documento oficial sobre a disputa entre Tesla/Westinghouse e Edison.
-3. **Patente US381968A (Electro-Magnetic Motor)** - Documento técnico original do motor de indução.
-4. **Apparatus for Transmitting Electrical Energy** - Patente de Tesla sobre os princípios da transmissão de energia sem fio.
-5. **War of the Currents: How AC Defeated DC** - Artigo técnico-histórico sobre as vantagens da Corrente Alternada.
+1. [**My Inventions: The Autobiography of Nikola Tesla**](https://github.com/Nicolas-KS24/Miniguia-de-Estudos-O-legado-de-Nikola-Tesla-com-NotebookLM/blob/main/fontes/My%20Inventions%20-%20Nikola%20Tesla.pdf) - Relato em primeira pessoa sobre sua vida e processos criativos.
+2. [**Patente Apparatus for Transmitting Electrical Energy**](https://github.com/Nicolas-KS24/Miniguia-de-Estudos-O-legado-de-Nikola-Tesla-com-NotebookLM/blob/main/fontes/Apparatus%20for%20transmitting%20electrical%20energy.pdf) - Patente de Tesla sobre os princípios da transmissão de energia sem fio.
+3. [**Patente Electro-Magnetic Motor**](https://github.com/Nicolas-KS24/Miniguia-de-Estudos-O-legado-de-Nikola-Tesla-com-NotebookLM/blob/main/fontes/Electro%E2%80%94Magnetic%20Motor.pdf) - Documento técnico original do motor de indução.
+4. [**Patente Ectrical Transmission Of Power**](https://github.com/Nicolas-KS24/Miniguia-de-Estudos-O-legado-de-Nikola-Tesla-com-NotebookLM/blob/main/fontes/Electrical%20Transmission%20Of%20Power.pdf) Documento técnico original da patente do projeto de transmissão elétrica de energia.
+5. [**THE INVENTIONS RESEARCHES AND WRITINGS OF NIKOLA TESLA**](https://www.gutenberg.org/cache/epub/39272/pg39272-images.html) - Artigo técnico-histórico, com referência especial correntes de polifases.
+6. [**War of the Currents: How AC Defeated DC**](https://www.energy.gov/articles/war-currents-ac-vs-dc-power) - Artigo técnico-histórico sobre as vantagens da Corrente Alternada.
 
 ---
 
